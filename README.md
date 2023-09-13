@@ -20,7 +20,7 @@ Para jogar, utilize as seguintes teclas que estão relacionadas com as seguintes
 
 #Para jogar
 
-Para testar o jogo acesse [Projeto 1 - Tempo de Reação](https://github.com/SidneyJunior01234/Sistemas_de_Tempo_Real-Projeto_1-Tempo_de_Reacao/blob/main/Imagens/4tela.png) ou faça o download do script 
+Para testar o jogo acesse [Projeto 1 - Tempo de Reação](https://replit.com/@SidneyJunior3/Projeto-01-Tempo-de-Reacao#main.py) ou faça o download do script 
 [Tempo de Reação](https://github.com/SidneyJunior01234/Sistemas_de_Tempo_Real-Projeto_1-Tempo_de_Reacao/blob/main/Script/Tempo_de_Reacao.py)
 
 ### **Ao fazer download do script verifique se o seu computador possui o pygame intalado.**
