@@ -16,3 +16,17 @@ Para jogar, utilize as seguintes teclas que estão relacionadas com as seguintes
 
 # Interface
 
+<img src="https://github.com/SidneyJunior01234/Sistemas_de_Tempo_Real-Projeto_1-Tempo_de_Reacao/blob/main/Imagens/4tela.png" width="600" height="400">
+
+#Para jogar
+
+Para testar o jogo acesse [Projeto 1 - Tempo de Reação](https://github.com/SidneyJunior01234/Sistemas_de_Tempo_Real-Projeto_1-Tempo_de_Reacao/blob/main/Imagens/4tela.png) ou faça o download do script 
+[Tempo de Reação](https://github.com/SidneyJunior01234/Sistemas_de_Tempo_Real-Projeto_1-Tempo_de_Reacao/blob/main/Script/Tempo_de_Reacao.py)
+
+### **Ao fazer download do script verifique se o seu computador possui o pygame intalado.**
+
+# Referências
+
+[Pygame](https://www.pygame.org/news)
+
+[Pygame Documentation](https://www.pygame.org/docs/)
